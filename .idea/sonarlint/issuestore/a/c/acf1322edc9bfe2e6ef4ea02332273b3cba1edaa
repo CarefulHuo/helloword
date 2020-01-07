@@ -1,0 +1,13 @@
+
+Fsquid:S1656"/Remove or correct this useless self-assignment.(Û¦ì
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+xsquid:S4165"aRemove this useless assignment; "str" already holds the assigned value along all execution paths.(Û¦ì
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ıÙ†
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+Dsquid:S1481"(Remove this unused "str" local variable.(¿ÄŞÏÿÿÿÿÿ
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ”ú
+Ssquid:S1854"7Remove this useless assignment to local variable "str".(¿ÄŞÏÿÿÿÿÿ

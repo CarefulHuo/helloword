@@ -1,0 +1,9 @@
+
+Usquid:S3516&"9Refactor this method to not always return the same value.(…­ßüÿÿÿÿ
+]squid:S11264"AReplace this if-then-else statement by a single return statement.(ç¥­úÿÿÿÿ
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(Õíµ ÿÿÿÿÿ
+2squid:S3626"Remove this redundant jump.(ÉŠ©ƒ
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+Fsquid:S00108)")Either remove or fill this block of code.(ç¥­úÿÿÿÿ

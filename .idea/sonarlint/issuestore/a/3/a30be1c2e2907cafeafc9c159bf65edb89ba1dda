@@ -1,0 +1,7 @@
+
+\"squid:SwitchLastCaseIsDefaultCheck	""Add a default case to this switch.(ÙĞ•áøÿÿÿÿ8ê‡Ğƒ˜-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ğãµ¾8¾Öºƒ˜-
+„squid:UselessImportCheck"ZRemove this unused import 'com.sun.org.apache.xerces.internal.util.DraconianErrorHandler'.(ëüôm8ÒÓÎƒ˜-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂáÔ²
+Psquid:S1191"5Use classes from the Java API instead of Sun classes.(ëüôm8ÒÓÎƒ˜-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğãµ¾

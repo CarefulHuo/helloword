@@ -1,0 +1,4 @@
+
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(à½‡¹ÿÿÿÿÿ8ö«šƒ˜-
+"squid:ClassVariableVisibilityCheck"SMake numberA a static final constant or non-public and provide accessors if needed.(Á×¹‹ûÿÿÿÿ8ø”–ƒ˜-
+ˆ"squid:ClassVariableVisibilityCheck"SMake numberB a static final constant or non-public and provide accessors if needed.(“°ù„8ø”–ƒ˜-
